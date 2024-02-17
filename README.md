@@ -1,6 +1,9 @@
 # ![Irishman Analyze's Go SDK](https://raw.githubusercontent.com/irishman-cloud/analyze-go/master/.github/banner.svg)
 
-Get valuable insights from your code.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/analyze-go)](https://github.com/irishman-cloud/analyze-go)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/analyze-go)](https://github.com/irishman-cloud/analyze-go/issues)
+
+<b align="center">Get valuable insights from your code.</b>
 
 ## Table of Contents
 
